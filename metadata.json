@@ -1,0 +1,5 @@
+
+{
+  "name": "Employee Dashboard",
+  "description": "A React application to display an employee dashboard fetched from a public API and an employee entry form. Features routing between pages."
+}
